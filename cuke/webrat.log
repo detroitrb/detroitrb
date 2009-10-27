@@ -1,0 +1,66 @@
+# Logfile created on Wed Oct 14 20:27:41 -0400 2009 by logger.rb/22283
+D, [2009-10-14T20:27:41.527293 #867] DEBUG -- : REQUESTING PAGE: GET www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:27:52.019655 #874] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:29:37.441365 #892] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:30:30.205776 #915] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:30:30.435477 #915] DEBUG -- : REQUESTING PAGE: GET /search with {"btnG"=>"Google Search", "hl"=>"en", "q"=>"LOLCAT", "ie"=>"ISO-8859-1", "source"=>"hp"} and HTTP headers {"HTTP_REFERER"=>"http://www.google.com"}
+D, [2009-10-14T20:31:25.553102 #923] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:31:25.897145 #923] DEBUG -- : REQUESTING PAGE: GET /search with {"btnG"=>"Google Search", "hl"=>"en", "q"=>"LOLCAT", "ie"=>"ISO-8859-1", "source"=>"hp"} and HTTP headers {"HTTP_REFERER"=>"http://www.google.com"}
+D, [2009-10-14T20:31:45.456776 #930] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:31:45.914519 #930] DEBUG -- : REQUESTING PAGE: GET /search with {"btnG"=>"Google Search", "hl"=>"en", "q"=>"LOLCAT", "ie"=>"ISO-8859-1", "source"=>"hp"} and HTTP headers {"HTTP_REFERER"=>"http://www.google.com"}
+D, [2009-10-14T20:36:31.129044 #956] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:36:31.455831 #956] DEBUG -- : REQUESTING PAGE: GET /search with {"btnG"=>"Google Search", "hl"=>"en", "q"=>"LOLCAT", "ie"=>"ISO-8859-1", "source"=>"hp"} and HTTP headers {"HTTP_REFERER"=>"http://www.google.com"}
+D, [2009-10-14T20:36:58.770307 #964] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:36:58.996577 #964] DEBUG -- : REQUESTING PAGE: GET /search with {"btnG"=>"Google Search", "hl"=>"en", "q"=>"LOLCAT", "ie"=>"ISO-8859-1", "source"=>"hp"} and HTTP headers {"HTTP_REFERER"=>"http://www.google.com"}
+D, [2009-10-14T20:38:21.095720 #971] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:38:21.475299 #971] DEBUG -- : REQUESTING PAGE: GET /search with {"btnG"=>"Google Search", "hl"=>"en", "q"=>"LOLCAT", "ie"=>"ISO-8859-1", "source"=>"hp"} and HTTP headers {"HTTP_REFERER"=>"http://www.google.com"}
+D, [2009-10-14T20:42:50.026667 #982] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:42:53.754706 #982] DEBUG -- : REQUESTING PAGE: GET /search with {"btnG"=>"Google Search", "hl"=>"en", "q"=>"LOLCAT", "ie"=>"ISO-8859-1", "source"=>"hp"} and HTTP headers {"HTTP_REFERER"=>"http://www.google.com"}
+D, [2009-10-14T20:42:55.904180 #982] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:42:56.147419 #982] DEBUG -- : REQUESTING PAGE: GET /search with {"btnG"=>"Google Search", "hl"=>"en", "q"=>"LOLCAT", "ie"=>"ISO-8859-1", "source"=>"hp"} and HTTP headers {"HTTP_REFERER"=>"http://www.google.com"}
+D, [2009-10-14T20:43:38.322579 #988] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:43:38.587598 #988] DEBUG -- : REQUESTING PAGE: GET /search with {"btnG"=>"Google Search", "hl"=>"en", "q"=>"LOLCAT", "ie"=>"ISO-8859-1", "source"=>"hp"} and HTTP headers {"HTTP_REFERER"=>"http://www.google.com"}
+D, [2009-10-14T20:43:39.095191 #988] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:43:39.386271 #988] DEBUG -- : REQUESTING PAGE: GET /search with {"btnG"=>"Google Search", "hl"=>"en", "q"=>"LOLCAT", "ie"=>"ISO-8859-1", "source"=>"hp"} and HTTP headers {"HTTP_REFERER"=>"http://www.google.com"}
+D, [2009-10-14T20:44:58.004815 #994] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:44:59.749356 #994] DEBUG -- : REQUESTING PAGE: GET /search with {"btnG"=>"Google Search", "hl"=>"en", "q"=>"LOLCAT", "ie"=>"ISO-8859-1", "source"=>"hp"} and HTTP headers {"HTTP_REFERER"=>"http://www.google.com"}
+D, [2009-10-14T20:45:00.328825 #994] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:45:00.667736 #994] DEBUG -- : REQUESTING PAGE: GET /search with {"btnG"=>"Google Search", "hl"=>"en", "q"=>"LOLCAT", "ie"=>"ISO-8859-1", "source"=>"hp"} and HTTP headers {"HTTP_REFERER"=>"http://www.google.com"}
+D, [2009-10-14T20:45:01.086631 #994] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:45:01.268232 #994] DEBUG -- : REQUESTING PAGE: GET /search with {"btnG"=>"Google Search", "hl"=>"en", "q"=>"Slashdot", "ie"=>"ISO-8859-1", "source"=>"hp"} and HTTP headers {"HTTP_REFERER"=>"http://www.google.com"}
+D, [2009-10-14T20:46:15.095357 #1000] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:46:15.546371 #1000] DEBUG -- : REQUESTING PAGE: GET /search with {"btnG"=>"Google Search", "hl"=>"en", "q"=>"LOLCAT", "ie"=>"ISO-8859-1", "source"=>"hp"} and HTTP headers {"HTTP_REFERER"=>"http://www.google.com"}
+D, [2009-10-14T20:49:06.997983 #1016] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:49:07.314098 #1016] DEBUG -- : REQUESTING PAGE: GET /search with {"btnG"=>"Google Search", "hl"=>"en", "q"=>"LOLCAT", "ie"=>"ISO-8859-1", "source"=>"hp"} and HTTP headers {"HTTP_REFERER"=>"http://www.google.com"}
+D, [2009-10-14T20:49:07.974090 #1016] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:49:08.312939 #1016] DEBUG -- : REQUESTING PAGE: GET /search with {"btnG"=>"Google Search", "hl"=>"en", "q"=>"LOLCAT", "ie"=>"ISO-8859-1", "source"=>"hp"} and HTTP headers {"HTTP_REFERER"=>"http://www.google.com"}
+D, [2009-10-14T20:49:08.961323 #1016] DEBUG -- : REQUESTING PAGE: GET http://www.bing.com with {} and HTTP headers {}
+D, [2009-10-14T20:49:57.013107 #1022] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:49:57.325476 #1022] DEBUG -- : REQUESTING PAGE: GET /search with {"btnG"=>"Google Search", "hl"=>"en", "q"=>"LOLCAT", "ie"=>"ISO-8859-1", "source"=>"hp"} and HTTP headers {"HTTP_REFERER"=>"http://www.google.com"}
+D, [2009-10-14T20:49:57.915701 #1022] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:49:58.167191 #1022] DEBUG -- : REQUESTING PAGE: GET http://www.bing.com with {} and HTTP headers {}
+D, [2009-10-14T20:50:07.562437 #1028] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:50:07.978234 #1028] DEBUG -- : REQUESTING PAGE: GET /search with {"btnG"=>"Google Search", "hl"=>"en", "q"=>"LOLCAT", "ie"=>"ISO-8859-1", "source"=>"hp"} and HTTP headers {"HTTP_REFERER"=>"http://www.google.com"}
+D, [2009-10-14T20:50:09.060385 #1028] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:50:09.372166 #1028] DEBUG -- : REQUESTING PAGE: GET /search with {"btnG"=>"Google Search", "hl"=>"en", "q"=>"LOLCAT", "ie"=>"ISO-8859-1", "source"=>"hp"} and HTTP headers {"HTTP_REFERER"=>"http://www.google.com"}
+D, [2009-10-14T20:50:09.883846 #1028] DEBUG -- : REQUESTING PAGE: GET http://www.bing.com with {} and HTTP headers {}
+D, [2009-10-14T20:50:35.268680 #1034] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:50:35.611132 #1034] DEBUG -- : REQUESTING PAGE: GET /search with {"btnG"=>"Google Search", "hl"=>"en", "q"=>"LOLCAT", "ie"=>"ISO-8859-1", "source"=>"hp"} and HTTP headers {"HTTP_REFERER"=>"http://www.google.com"}
+D, [2009-10-14T20:50:36.279855 #1034] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:50:36.611126 #1034] DEBUG -- : REQUESTING PAGE: GET /search with {"btnG"=>"Google Search", "hl"=>"en", "q"=>"LOLCAT", "ie"=>"ISO-8859-1", "source"=>"hp"} and HTTP headers {"HTTP_REFERER"=>"http://www.google.com"}
+D, [2009-10-14T20:50:37.225351 #1034] DEBUG -- : REQUESTING PAGE: GET http://www.bing.com with {} and HTTP headers {}
+D, [2009-10-14T20:51:57.154923 #1042] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:51:57.491500 #1042] DEBUG -- : REQUESTING PAGE: GET /search with {"btnG"=>"Google Search", "hl"=>"en", "q"=>"LOLCAT", "ie"=>"ISO-8859-1", "source"=>"hp"} and HTTP headers {"HTTP_REFERER"=>"http://www.google.com"}
+D, [2009-10-14T20:51:58.060090 #1042] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:51:58.282443 #1042] DEBUG -- : REQUESTING PAGE: GET /search with {"btnG"=>"Google Search", "hl"=>"en", "q"=>"LOLCAT", "ie"=>"ISO-8859-1", "source"=>"hp"} and HTTP headers {"HTTP_REFERER"=>"http://www.google.com"}
+D, [2009-10-14T20:51:58.893802 #1042] DEBUG -- : REQUESTING PAGE: GET http://www.altavista.com with {} and HTTP headers {}
+D, [2009-10-14T20:52:43.432312 #1048] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:52:43.731749 #1048] DEBUG -- : REQUESTING PAGE: GET /search with {"btnG"=>"Google Search", "hl"=>"en", "q"=>"LOLCAT", "ie"=>"ISO-8859-1", "source"=>"hp"} and HTTP headers {"HTTP_REFERER"=>"http://www.google.com"}
+D, [2009-10-14T20:52:44.282903 #1048] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:52:44.455738 #1048] DEBUG -- : REQUESTING PAGE: GET /search with {"btnG"=>"Google Search", "hl"=>"en", "q"=>"LOLCAT", "ie"=>"ISO-8859-1", "source"=>"hp"} and HTTP headers {"HTTP_REFERER"=>"http://www.google.com"}
+D, [2009-10-14T20:52:44.943036 #1048] DEBUG -- : REQUESTING PAGE: GET http://www.altavista.com with {} and HTTP headers {}
+D, [2009-10-14T20:53:59.998779 #1061] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:54:00.401888 #1061] DEBUG -- : REQUESTING PAGE: GET /search with {"btnG"=>"Google Search", "hl"=>"en", "q"=>"LOLCAT", "ie"=>"ISO-8859-1", "source"=>"hp"} and HTTP headers {"HTTP_REFERER"=>"http://www.google.com"}
+D, [2009-10-14T20:54:01.027106 #1061] DEBUG -- : REQUESTING PAGE: GET http://www.google.com with {} and HTTP headers {}
+D, [2009-10-14T20:54:01.401763 #1061] DEBUG -- : REQUESTING PAGE: GET /search with {"btnG"=>"Google Search", "hl"=>"en", "q"=>"LOLCAT", "ie"=>"ISO-8859-1", "source"=>"hp"} and HTTP headers {"HTTP_REFERER"=>"http://www.google.com"}
+D, [2009-10-14T20:54:01.979668 #1061] DEBUG -- : REQUESTING PAGE: GET http://www.yahoo.com with {} and HTTP headers {}
