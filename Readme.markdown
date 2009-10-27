@@ -1,5 +1,5 @@
 # Detroit.rb
-#### _Miscellaneous things that fall out of the Detroit.rb meet-ups._
+#### _The secret goings-on of the Detroit.rb meet-ups..._
 
 What we have here:
 
